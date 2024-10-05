@@ -72,7 +72,7 @@ const About = () => {
           </div>
           <div className="member">
             <img src={coreMember2} alt="Mrudhula Rahate" />
-            <h4>Mrudhula Rahate</h4>
+            <h4>Mrudula Rahate</h4>
             <p>Co-Chair</p>
             <div className="social-icons">
               <a href="https://www.instagram.com/mrudula12503/">
